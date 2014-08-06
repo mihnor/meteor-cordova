@@ -1,0 +1,32 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "appcache-extra": {},
+      "cordova-loader": {},
+      "bootstrap-3": {}
+    },
+    "packages": {
+      "appcache-extra": {
+        "git": "https://github.com/andrewreedy/meteor-appcache-extra.git",
+        "tag": "v0.0.1",
+        "commit": "6fb288f0f584dc65afefbf6ba5ae4c64cef58b60"
+      },
+      "cordova-loader": {
+        "git": "https://github.com/andrewreedy/meteor-cordova-loader.git",
+        "tag": "v0.0.5",
+        "commit": "5fd42f04ccc380ae9a5669f7f0c0948b28d9974d"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.2.0-1",
+        "commit": "17a63902fc6cf1096c5289d963c66cf28b474727"
+      },
+      "log": {
+        "git": "https://github.com/andrewreedy/meteor-log.git",
+        "tag": "v0.0.2",
+        "commit": "110251d7d973611a0ac56db7e2af76fb3cc77af5"
+      }
+    }
+  }
+}

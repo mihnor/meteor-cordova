@@ -1,0 +1,56 @@
+2014-08-06 13:23:39.004 Leaderboard[42605:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-06 13:23:39.013 Leaderboard[42605:70b] Unlimited access to network resources
+2014-08-06 13:23:39.016 Leaderboard[42605:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-06 13:23:39.106 Leaderboard[42605:70b] [CDVTimer][splashscreen] 74.065030ms
+2014-08-06 13:23:39.109 Leaderboard[42605:70b] [CDVTimer][statusbar] 2.641022ms
+2014-08-06 13:23:39.110 Leaderboard[42605:70b] [CDVTimer][keyboard] 0.105977ms
+2014-08-06 13:23:39.110 Leaderboard[42605:70b] [CDVTimer][TotalPluginStartup] 78.226984ms
+2014-08-06 13:23:39.189 Leaderboard[42605:70b] active
+2014-08-06 13:23:39.415 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:23:40.746 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:25:28.404 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:25:28.470 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:25:38.470 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:25:38.547 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:27:11.864 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:27:11.930 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:27:20.699 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:27:20.826 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:27:44.445 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:27:45.352 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:28:51.800 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:28:52.740 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:28:59.995 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:29:00.161 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html
+2014-08-06 13:29:14.804 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:29:15.009 Leaderboard[42605:70b] Finished load of: http://localhost:3000/index.html?
+2014-08-06 13:33:10.739 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:33:17.690 Leaderboard[42605:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-06 13:33:17.690 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:33:18.577 Leaderboard[42605:70b] Finished load of: https://github.com/sebastienbarre/meteor-leaderboard?files=1
+2014-08-06 13:33:29.118 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:33:30.377 Leaderboard[42605:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-06 13:33:31.397 Leaderboard[42605:70b] Resetting plugins due to page load.
+2014-08-06 13:33:33.016 Leaderboard[42605:70b] Finished load of: https://github.com/sebastienbarre/meteor-leaderboard
+2014-08-06 13:34:02.024 Leaderboard[43203:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-06 13:34:02.032 Leaderboard[43203:70b] Unlimited access to network resources
+2014-08-06 13:34:02.034 Leaderboard[43203:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-06 13:34:02.121 Leaderboard[43203:70b] [CDVTimer][splashscreen] 69.583952ms
+2014-08-06 13:34:02.149 Leaderboard[43203:70b] [CDVTimer][statusbar] 27.351975ms
+2014-08-06 13:34:02.150 Leaderboard[43203:70b] [CDVTimer][keyboard] 0.194967ms
+2014-08-06 13:34:02.151 Leaderboard[43203:70b] [CDVTimer][TotalPluginStartup] 99.974990ms
+2014-08-06 13:34:02.159 Leaderboard[43203:70b] active
+2014-08-06 13:34:02.548 Leaderboard[43203:70b] Resetting plugins due to page load.
+2014-08-06 13:34:02.870 Leaderboard[43203:70b] Finished load of: http://localhost:3000/index.html

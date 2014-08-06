@@ -1,0 +1,7 @@
+{
+    "cordova": {
+        "path": "/Users/cleliodpaula/Documents/develop/_cordova/leaderboard/.cordova",
+        "platforms": ["ios"],
+        "logging": true
+    }
+}
